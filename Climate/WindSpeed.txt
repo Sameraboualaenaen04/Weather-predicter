@@ -1,0 +1,12 @@
+Damascus    14.1
+Cairo       15.0
+Beirut      12.0
+Jerusalem   10.3
+Dhaka        9.0
+Madrid      10.0
+Berlin      12.5
+Paris       11.0
+Kyiv        13.0
+Warsaw      15.0
+Bangkok     11.0
+Beijing     11.0

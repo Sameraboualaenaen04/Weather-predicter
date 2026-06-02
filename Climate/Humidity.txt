@@ -1,0 +1,12 @@
+Damascus    48
+Cairo       57
+Beirut      68
+Jerusalem   60
+Dhaka       78
+Madrid      57
+Berlin      76
+Paris       77
+Kyiv        74
+Warsaw      78
+Bangkok     75
+Beijing     61

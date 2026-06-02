@@ -1,0 +1,12 @@
+Damascus      130 
+Cairo          24 
+Beirut        887 
+Jerusalem     550 
+Dhaka        2100 
+Madrid        436 
+Berlin        570 
+Paris         640 
+Kyiv          620 
+Warsaw        530 
+Bangkok      1500 
+Beijing       570 
